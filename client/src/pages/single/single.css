@@ -1,0 +1,12 @@
+.single {
+    display: flex;
+}
+
+.singlePostWrap {
+    flex: 9;
+}
+
+
+.sidebarWrap {
+    flex: 3;
+}

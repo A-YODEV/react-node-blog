@@ -1,0 +1,10 @@
+@url = "http://localhost:5000/"
+
+PUT  http://localhost:5000/posts/635f9d506895d32b70a9c529 HTTP/1.1
+Content-Type: application/json
+
+{
+    "username":"banjiupdated",
+    "title":"testingupdated2",
+    "desc":"testingit"
+}

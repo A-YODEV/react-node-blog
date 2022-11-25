@@ -1,0 +1,15 @@
+.home {
+    display: flex;
+}
+
+.sidebar-wrap {
+    flex: 100%;
+    max-width: 30%;
+    background-color: #fdfbfd;
+}
+
+
+.post_wrap {
+    flex: 100%;
+    max-width: 70%;
+}

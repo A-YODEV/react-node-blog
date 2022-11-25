@@ -1,0 +1,12 @@
+.about {
+    display: flex;
+}
+
+.about-wrap {
+    flex: 9;
+}
+
+
+.sidebar-wrap {
+    flex: 3;
+}

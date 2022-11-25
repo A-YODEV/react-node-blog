@@ -1,0 +1,12 @@
+.contact {
+    display: flex;
+}
+
+.contact-wrap {
+    flex: 9;
+}
+
+
+.sidebar-wrap {
+    flex: 3;
+}
